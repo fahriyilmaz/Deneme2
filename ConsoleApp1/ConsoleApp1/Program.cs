@@ -14,8 +14,8 @@ namespace ConsoleApp1
             Console.Write("Uygulama üzerinden");
             Console.Write("Uygulama üzerinden");
 
-             //Console.Write("Uygulama üzerinden");
-
+            //Console.Write("Uygulama üzerinden");
+            Console.Write("Dev1 branch");
         }
     }
 }
