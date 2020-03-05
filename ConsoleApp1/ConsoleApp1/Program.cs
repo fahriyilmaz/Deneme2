@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.Write("Merhaba Dünya");
             Console.Write("Uygulama üzerinden");
+            Console.Write("Uygulama üzerinden");
+
         }
     }
 }
